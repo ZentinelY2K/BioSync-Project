@@ -26,3 +26,5 @@ If you're paralyzed on a hospital bed, a cheap camera with the open-source softw
 # What I learned 🧠  
 This project, as mentioned previously, introduced me to Arduino, which means it was my first time manipulating electronics such as bredboards, jumper wires, soldering, LEDs, sensors, servos, etc. I had some Python experience beforehand, but, for the development of this project's software, I had to force myself to learn OOP, 2D lists and dictionaries, Error handling, and practice solutions that came after hours of trial-and-error.
 
+# Sources:
+PowerPoint Presentation: C:\Users\Admin\OneDrive\Documents\Slide_shoow_presentation.pptx
