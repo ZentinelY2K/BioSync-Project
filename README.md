@@ -42,6 +42,6 @@ The rest, such as the virtual trifold, are part of this repository’s files.
 
 # Bibliography ❤️
 
-One of the main mentors in achieving the software for this project was freeCodeCamp’s “Advanced Computer Vision with Python - Full Course,” which laid the fundation for my understanding on manipulation of pixel values and getting the environment ready.
+One of the main mentors in achieving the software for this project was freeCodeCamp’s “Advanced Computer Vision with Python - Full Course,” which laid the fundation for my understanding on mediapipe and openCV.
 https://youtu.be/01sAkU_NvOY
 
