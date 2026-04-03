@@ -10,7 +10,7 @@ BioSync is a project that started on October 29, 2025. This, being my first time
 
 BioSync was developed during my freshman year, where I presented it at my school fair, winning first place in the category of Robotics & Intelligent Machines, where I soon got moved to participate at the Sun Country Regional Fair (El Paso) where I competed against all public,private,and charter school districts in El Paso in my category, also winning first place in Robotics & Intelligent Machines, this, led me to participate at the Texas Science & Engineering Fair (TX-SEF).
 
-![Preview](1000029062.jpg)
+![Preview](20260402_205637.jpg)
 
 # Documentation 🤔❓
 
@@ -37,10 +37,12 @@ If you’re paralyzed on a hospital bed, a cheap camera with the open-source sof
 
 This project, as mentioned previously, introduced me to Arduino, which means it was my first time manipulating electronics such as breadboards, jumper wires, soldering, LEDs, sensors, servos, and of course, the Arduino IDE, which uses C++ syntax. I had some Python experience beforehand, but, for the development of this project’s software, I had to force myself to learn OOP, 2D lists and dictionaries, Error handling, and practice solutions that came after hours of trial-and-error.
 
-# Documentation Sources ➕
+# More Documentation Sources ➕
 
 PowerPoint Presentation: C:\Users\Admin\OneDrive\Documents\Slide_show_presentation.pptx
 The rest, such as the virtual trifold, are part of this repository’s files.
+
+![Preview](1000029062.jpg)
 
 # Bibliography ❤️
 
