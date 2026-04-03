@@ -35,7 +35,7 @@ If you’re paralyzed on a hospital bed, a cheap camera with the open-source sof
 
 This project, as mentioned previously, introduced me to Arduino, which means it was my first time manipulating electronics such as breadboards, jumper wires, soldering, LEDs, sensors, servos, and of course, the Arduino IDE, which uses C++ syntax. I had some Python experience beforehand, but, for the development of this project’s software, I had to force myself to learn OOP, 2D lists and dictionaries, Error handling, and practice solutions that came after hours of trial-and-error.
 
-# Documentation Sources: ➕
+# Documentation Sources ➕
 
 PowerPoint Presentation: C:\Users\Admin\OneDrive\Documents\Slide_show_presentation.pptx
 The rest, such as the virtual trifold, are part of this repository’s files.
