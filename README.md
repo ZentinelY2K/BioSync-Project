@@ -42,7 +42,7 @@ This project, as mentioned previously, introduced me to Arduino, which means it 
 
 # More Documentation Sources ➕
 
-PowerPoint Presentation: [View Here](C:\Users\Admin\OneDrive\Documents\Slide_show_presentation.pptx)
+PowerPoint Presentation: C:\Users\Admin\OneDrive\Documents\Slide_show_presentation.pptx
 The rest, such as the virtual trifold, are part of this repository’s files.
 
 ![Preview](assets/20260328_112529.jpg)
