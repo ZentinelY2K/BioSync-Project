@@ -3,7 +3,7 @@
 Translating Biological Inputs into Robotic outputs | A solution to expensive Biometric software for human-machine interfaces
 
 # Demo 
-Redirect to Youtube: [View Here](https://www.youtube.com/watch?v=du2PsQilVY8)
+Video on Youtube: [View Here](https://www.youtube.com/watch?v=du2PsQilVY8)
 
 # Abstract 📝
 
