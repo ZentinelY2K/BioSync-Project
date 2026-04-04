@@ -2,6 +2,9 @@
 
 Translating Biological Inputs into Robotic outputs | A solution to expensive Biometric software for human-machine interfaces
 
+# Demo 
+Link on Youtube: [View Here](https://www.youtube.com/watch?v=du2PsQilVY8)
+
 # Abstract 📝
 
 BioSync is a project that started on October 29, 2025. This, being my first time interacting with Electronics, mostly Arduino-related software and hardware, the goal being to develop a program capable of turning Biological inputs (such as hand gestures, gaze with iris, and facial expression) to robotic outputs (an RC car) using consumer hardware such as a camera. This project has come a long way, and officially came to an end on March 29, 2026. These 5 months of restless work and iteration have laid the foundations for my knowledge in Robotics, and greatly improved my programming and critical-thinking skills, a project that I'm proud of.
@@ -39,7 +42,7 @@ This project, as mentioned previously, introduced me to Arduino, which means it 
 
 # More Documentation Sources ➕
 
-PowerPoint Presentation: C:\Users\Admin\OneDrive\Documents\Slide_show_presentation.pptx
+PowerPoint Presentation: [View Here](C:\Users\Admin\OneDrive\Documents\Slide_show_presentation.pptx)
 The rest, such as the virtual trifold, are part of this repository’s files.
 
 ![Preview](1000029062.jpg)
@@ -47,5 +50,7 @@ The rest, such as the virtual trifold, are part of this repository’s files.
 # Bibliography ❤️
 
 One of the main mentors in achieving the software for this project was freeCodeCamp’s “Advanced Computer Vision with Python - Full Course,” which laid the fundation for my understanding on mediapipe and openCV.
-https://youtu.be/01sAkU_NvOY
+[View Here](https://youtu.be/01sAkU_NvOY)
+
+
 
