@@ -34,7 +34,7 @@ The RC car uses a dual-controller system, with two ESP32’s, the first ESP32 is
 
 # Example of Usage and other Hardware Comparison 💰
 
-If you’re paralyzed on a hospital bed, a cheap camera with the open-source software could easily track your eye movement using computer vision, which could translate those gestures into commands (e.g: Looking right for more than 5 seconds = Need assitance) this is what BioSync demonstrates, you do not need the most expensive Biometric hardware out there to achieve gesture or gaze recognition, since the software can run from any camera, for instancce, the Irisbond Hiru, which is a lightweight eye tracker designed for similar tasks, costs 3,463 USD dollars compared to Biosync, which is free. (https://www.bridges-canada.com/products/irisbond-hiru-eye-tracker)
+If you’re paralyzed on a hospital bed, a cheap camera with the open-source software could easily track your eye movement using computer vision, which could translate those gestures into commands (e.g: Looking right for more than 5 seconds = Need assitance) this is what BioSync demonstrates, you do not need the most expensive Biometric hardware out there to achieve gesture or gaze recognition, since the software can run from any camera, for instancce, the Irisbond Hiru, which is a lightweight eye tracker designed for similar tasks, costs 3,463 USD dollars compared to Biosync, which is free. [Irisbond Hiru Price](https://www.bridges-canada.com/products/irisbond-hiru-eye-tracker)
 
 # What I learned 🧠
 
