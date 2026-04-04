@@ -45,12 +45,12 @@ This project, as mentioned previously, introduced me to Arduino, which means it 
 PowerPoint Presentation: [View Here](C:\Users\Admin\OneDrive\Documents\Slide_show_presentation.pptx)
 The rest, such as the virtual trifold, are part of this repository’s files.
 
-![Preview](1000029062.jpg)
+![Preview](assets/20260328_112529.jpg)
 
 # Bibliography ❤️
 
 One of the main mentors in achieving the software for this project was freeCodeCamp’s “Advanced Computer Vision with Python - Full Course,” which laid the fundation for my understanding on mediapipe and openCV.
-[View Here](https://youtu.be/01sAkU_NvOY)
+[See Video Here](https://youtu.be/01sAkU_NvOY)
 
 
 
