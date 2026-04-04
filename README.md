@@ -13,7 +13,7 @@ BioSync is a project that started on October 29, 2025. This, being my first time
 
 BioSync was developed during my freshman year, where I presented it at my school fair, winning first place in the category of Robotics & Intelligent Machines, where I soon got moved to participate at the Sun Country Regional Fair (El Paso) where I competed against all public,private,and charter school districts in El Paso in my category, also winning first place in Robotics & Intelligent Machines, this, led me to participate at the Texas Science & Engineering Fair (TX-SEF).
 
-![Preview](assets/20260328_112529.jpg)
+![Preview](assets/20260402_205637.jpg)
 
 # Documentation 🤔❓
 
