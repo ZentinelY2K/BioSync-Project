@@ -40,6 +40,9 @@ If you’re paralyzed on a hospital bed, a cheap camera with the open-source sof
 
 This project, as mentioned previously, introduced me to Arduino, which means it was my first time manipulating electronics such as breadboards, jumper wires, soldering, LEDs, sensors, servos, and of course, the Arduino IDE, which uses C++ syntax. I had some Python experience beforehand, but, for the development of this project’s software, I had to force myself to learn OOP, 2D lists and dictionaries, Error handling, and practice solutions that came after hours of trial-and-error.
 
+# User Interface Extra
+After finishing this project I decideed to take advantage of the knowledge I had of Mediapipe and OpenCV ot develop a software capable of scrolling down/up, rasing/decreasing volume, and simulating a mouse using hand gestures and finger position. You can find this in the folder "UI UBUNTU"
+
 # More Documentation Sources ➕
 
 PowerPoint Presentation: [View Here](https://docs.google.com/presentation/d/1yXiZFPB7TLjAIVsKBWHhqGk3i6SGg42V/edit?usp=drive_link&ouid=101761775646099724548&rtpof=true&sd=true)
